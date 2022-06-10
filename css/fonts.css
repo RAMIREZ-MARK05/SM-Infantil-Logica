@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+/* FONTS */
+@font-face {
+	font-family: 'SM Infantil Pauta Bold';
+	src: url('../data/fonts/SMInfPB.eot');
+	src: local('☺'), url('../data/fonts/SMInfPB.woff') format('woff'), url('../data/fonts/SMInfPB.ttf') format('truetype'), url('../data/fonts/SMInfPB.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SM Infantil Pauta Bold Italic';
+	src: url('../data/fonts/SMInfPBI.eot');
+	src: local('☺'), url('../data/fonts/SMInfPBI.woff') format('woff'), url('../data/fonts/SMInfPBI.ttf') format('truetype'), url('../data/fonts/SMInfPBI.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SM Infantil Pauta Italic';
+	src: url('../data/fonts/SMInfPI.eot');
+	src: local('☺'), url('../data/fonts/SMInfPI.woff') format('woff'), url('../data/fonts/SMInfPI.ttf') format('truetype'), url('../data/fonts/SMInfPI.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SM Infantil Pauta Puntos';
+	src: url('../data/fonts/SMInfPP.eot');
+	src: local('☺'), url('../data/fonts/SMInfPP.woff') format('woff'), url('../data/fonts/SMInfPP.ttf') format('truetype'), url('../data/fonts/SMInfPP.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SM Infantil Pauta Puntos Italic';
+	src: url('../data/fonts/SMInfPPI.eot');
+	src: local('☺'), url('../data/fonts/SMInfPPI.woff') format('woff'), url('../data/fonts/SMInfPPI.ttf') format('truetype'), url('../data/fonts/SMInfPPI.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SM Infantil Pauta';
+	src: url('../data/fonts/SMInfPR.eot');
+	src: local('☺'), url('../data/fonts/SMInfPR.woff') format('woff'), url('../data/fonts/SMInfPR.ttf') format('truetype'), url('../data/fonts/SMInfPR.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
